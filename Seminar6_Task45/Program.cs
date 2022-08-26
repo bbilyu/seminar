@@ -43,4 +43,3 @@ arr2[0] = 11;
 
 PrintArray(arr);
 PrintArray(arr2);
-
